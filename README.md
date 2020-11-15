@@ -7,9 +7,9 @@ This is a template Repository for authentication with Node using Mongo DB as a s
 Create a `.env` file in the root directory with parameters `DB_CONNECT` pointing to MongoDB instance and `TOKEN_SECRET` as the secret to be used for JWT  
 
 ### Node
-Install Dependancies  `npm install`
-Run the Code in developer mode `npm run start-dev` 
-Run Code in Production `npm run start`
+Install Dependancies  `npm install`  
+Run the Code in developer mode `npm run start-dev`   
+Run Code in Production `npm run start`  
 
 ## Technology used
 * JSON Web Token
